@@ -30,26 +30,26 @@ body {
     color: #d21034;
   }
   
-  .container {
+  .box {
     width: 1024px;
     margin: 0 auto;
   }
   
-  #main-bio,
-  #contact-info,
-  #bio-image {
+  #main,
+  #contact,
+  #image {
     float: left;
   }
   
-  #main-bio {
+  #main{
     width: 70%;
   }
   
-  #contact-info {
+  #contact {
     width: 30%;
   }
   
-  #bio-image {
+  #image {
     width: 200px;
     height: 200px;
     margin-right: 20px;
